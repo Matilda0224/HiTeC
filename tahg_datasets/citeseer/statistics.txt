@@ -1,0 +1,7 @@
+[INFO] Original nodes: 3186
+[INFO] Nodes after filtering: 1778
+[INFO] Total hyperedges: 2118
+
+after filter... for citeseer2: num of nodes:1778, num of hyperedges: 2118
+📊 平均 token 数: 198.12
+ avg_hyperedge_size:2.019357884796978

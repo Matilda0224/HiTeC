@@ -13,7 +13,7 @@ do
                                     --s_walk $s \
                                     --num_seeds 3\
                                     --sub_rate $sub_rate \
-                                    >> result/${dname}_${model_type}_s${s}.out 
+                                    >> ${dname}_${model_type}_s${s}.out 
             done    
         done
     done

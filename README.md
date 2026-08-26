@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Datasets
 
-We provide the original texts and hypergraph structures of the TAHGs, as well as the edge splits for hyperedge prediction. Cora and CiteSeer are in `tahg_datasets/`; History, Photo, Computers, and Fitness are on **[Google Drive](https://drive.google.com/drive/folders/1tkNOf2ehJoUxvPRTxwKPGdVdiA5MXsqC?usp=sharing)** (`history.zip`, `photo.zip`, `computers.zip`, `fitness.zip` — unzip into `tahg_datasets/`).
+We provide the original texts and hypergraph structures of the TAHGs, as well as the edge splits for hyperedge prediction. Cora and CiteSeer are in `tahg_datasets/`; History, Photo, Computers, and Fitness are on **[Google Drive](https://drive.google.com/drive/folders/1tkNOf2ehJoUxvPRTxwKPGdVdiA5MXsqC?usp=sharing)**.
 
 
 ## Run
@@ -41,5 +41,16 @@ python train.py --dataset cora --encode_emb --train_textencoder --device 0
 
 ```bash
 python train.py --dataset cora --device 0
+```
+
+## Citation
+
+```bibtex
+@inproceedings{pan2026hitec,
+  title={HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation},
+  author={Pan, Mengting and Li, Fan and Chen, Chen and Wang, Xiaoyang and Zhang, Wenjie},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  year={2026}
+}
 ```
 

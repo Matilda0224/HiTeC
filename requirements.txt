@@ -1,0 +1,11 @@
+numpy>=1.22
+scipy>=1.8
+scikit-learn>=1.0
+pyyaml>=6.0
+tqdm>=4.64
+torch>=2.0
+torch-geometric>=2.0.4
+torch-scatter
+torch-sparse
+transformers>=4.30.0
+peft>=0.4.0

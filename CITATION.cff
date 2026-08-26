@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation"
+message: If you use this software, please cite the paper.
+type: software
+authors:
+  - family-names: Pan
+    given-names: Mengting
+  - family-names: Li
+    given-names: Fan
+  - family-names: Chen
+    given-names: Chen
+  - family-names: Wang
+    given-names: Xiaoyang
+  - family-names: Zhang
+    given-names: Wenjie
+url: https://github.com/Matilda0224/HiTeC
+repository-code: https://github.com/Matilda0224/HiTeC
+preferred-citation:
+  type: article
+  title: "HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation"
+  authors:
+    - family-names: Pan
+      given-names: Mengting
+    - family-names: Li
+      given-names: Fan
+    - family-names: Chen
+      given-names: Chen
+    - family-names: Wang
+      given-names: Xiaoyang
+    - family-names: Zhang
+      given-names: Wenjie
+  year: 2025
+  journal: arXiv
+  identifiers:
+    - type: other
+      value: arXiv:2508.03104
+      description: arXiv preprint
